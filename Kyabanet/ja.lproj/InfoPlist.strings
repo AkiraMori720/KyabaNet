@@ -1,0 +1,16 @@
+/* 
+  InfoPlist.strings
+  Life
+
+  Created by mac on 2021/6/20.
+  Copyright © 2021 Zed. All rights reserved.
+*/
+{
+    NSCameraUsageDescription = "アバターをキャプチャしてqrcodeをスキャンするには、カメラが必要です。";
+    NSPhotoLibraryUsageDescription = "写真やビデオメッセージを保存するためにフォトライブラリを使用しています。";
+    NSPhotoLibraryAddUsageDescription = "写真やビデオメッセージを保存するためにフォトライブラリを使用しています。";
+    NSMicrophoneUsageDescription = "マイクを使用して音声メッセージを送信します。";
+    NSContactsUsageDescription = "アプリはあなたに友達を推薦するために連絡先にアクセスする必要があります。";
+    NSLocationAlwaysUsageDescription = "私たちはあなたの場所を使用して場所メッセージを送信します。";
+    NSLocationWhenInUseUsageDescription = "私たちはあなたの場所を使用して場所メッセージを送信します。";
+}

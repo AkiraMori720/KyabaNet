@@ -1,0 +1,59 @@
+
+/* Class = "UIButton"; normalTitle = "ADD"; ObjectID = "ooz-y7-yQa"; */
+"ooz-y7-yQa.normalTitle" = "追加";
+
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "Ey5-ok-rTe"; */
+"Ey5-ok-rTe.normalTitle" = "送金";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "ah5-3V-J9h"; */
+"ah5-3V-J9h.text" = "剰余";
+
+/* Class = "UILabel"; text = "LATEST TRANSACTIONS"; ObjectID = "2gF-u7-JhT"; */
+"2gF-u7-JhT.text" = "最新の取引";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "CsM-PA-mhw"; */
+"CsM-PA-mhw.text" = "合計金額";
+
+/* Class = "UILabel"; text = "Transaction ID"; ObjectID = "7gC-uW-RvE"; */
+"7gC-uW-RvE.text" = "トランザクションID";
+
+/* Class = "UILabel"; text = "Scan QR code to quickly send to anyone"; ObjectID = "5VI-fu-vPV"; */
+"5VI-fu-vPV.text" = "QRコードをスキャンして、誰にでもすばやく送信できます";
+
+/* Class = "UILabel"; text = "Accept Money"; ObjectID = "6wJ-gj-N5x"; */
+"6wJ-gj-N5x.text" = "お金を受け取る";
+/* Class = "UILabel"; text = "Accept Money"; ObjectID = "29w-Yf-LDA"; */
+"29w-Yf-LDA.text" = "お金を受け取る";
+
+/* Class = "UILabel"; text = "Share or show t his QR code to receive payment from your friends "; ObjectID = "3Dy-5c-g9V"; */
+"3Dy-5c-g9V.text" = "QRコードを共有または表示して、\n友達から支払いを受け取ります";
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "S6M-Lu-cOs"; */
+"S6M-Lu-cOs.normalTitle" = "送金";
+
+/* Class = "UILabel"; text = "Availabe Balance"; ObjectID = "T8q-EJ-jYj"; */
+"T8q-EJ-jYj.text" = "利用可能残高:";
+
+/* Class = "UILabel"; text = "Enter Amount"; ObjectID = "NP4-qZ-EjQ"; */
+"NP4-qZ-EjQ.text" = "金額を入力します";
+
+/* Class = "UILabel"; text = "SEND MONEY"; ObjectID = "tO9-Ln-yA8"; */
+"tO9-Ln-yA8.text" = "送金";
+
+/* Class = "UILabel"; text = "INPUT PASS CODE"; ObjectID = "LSS-99-NGu"; */
+"LSS-99-NGu.text" = "パスコードを入力して支払いを完了してください";
+
+/* Class = "UILabel"; text = "Security verificaiton"; ObjectID = "NvQ-lV-pR3"; */
+"NvQ-lV-pR3.text" = "セキュリティ検証";
+
+/* Class = "UILabel"; text = "Transaction reference number label"; ObjectID = "Ba6-JO-3gj"; */
+"Ba6-JO-3gj.text" = "取引参照番号";
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "isW-OK-8BI"; */
+"isW-OK-8BI.normalTitle" = "完了";
+/* Class = "UILabel"; text = "Transaction amount"; ObjectID = "j9k-Tv-AeC"; */
+"j9k-Tv-AeC.text" = "取引金額";
+"oS8-Y3-u0T.text" = "お金を追加する";
+"Slg-hS-pda.normalTitle" = "お金を追加する";
+
+

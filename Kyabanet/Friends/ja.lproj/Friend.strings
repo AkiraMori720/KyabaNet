@@ -1,0 +1,103 @@
+///* Class = "UILabel"; text = "My QR code"; ObjectID = "1rV-cs-d4e"; */
+//"1rV-cs-d4e.text" = "私のQRコード";
+//
+///* Class = "UISearchBar"; placeholder = "Search friends"; ObjectID = "1Ty-a1-Qrj"; */
+//"1Ty-a1-Qrj.placeholder" = "友達を探す";
+//
+///* Class = "UILabel"; text = "James Watson"; ObjectID = "1un-9S-osQ"; */
+//"1un-9S-osQ.text" = "James Watson";
+//
+///* Class = "UILabel"; text = "James Watson"; ObjectID = "5fl-g9-pl6"; */
+//"5fl-g9-pl6.text" = "James Watson";
+//
+///* Class = "UILabel"; text = "Successfully added to your friend list"; ObjectID = "43v-g1-5Uv"; */
+//"43v-g1-5Uv.text" = "友達リストに追加されました";
+//
+///* Class = "UILabel"; text = "My QR Code"; ObjectID = "Ah6-Wn-Dfi"; */
+//"Ah6-Wn-Dfi.text" = "私のQRコード";
+//
+///* Class = "UILabel"; text = "9876543210"; ObjectID = "Axd-cM-fWp"; */
+//"Axd-cM-fWp.text" = "9876543210";
+//
+///* Class = "UILabel"; text = "Showing Results 1"; ObjectID = "bqd-8n-due"; */
+//"bqd-8n-due.text" = "Showing Results 1";
+//
+///* Class = "UIButton"; normalTitle = "START CHAT"; ObjectID = "4Ch-nU-gTd"; */
+//"4Ch-nU-gTd.normalTitle" = "チャットを始める";
+//
+///* Class = "UIButton"; normalTitle = "START CHAT"; ObjectID = "RyD-x7-ogF"; */
+//"RyD-x7-ogF.normalTitle" = "チャットを始める";
+//
+///* Class = "UILabel"; text = "Successfully added to your friend list"; ObjectID = "eYh-Xq-ZWg"; */
+//"eYh-Xq-ZWg.text" = "友達リストに追加されました";
+//
+///* Class = "UILabel"; text = "Search friends using their username or phone number"; ObjectID = "F0n-Ai-Cpk"; */
+//"F0n-Ai-Cpk.text" = "ユーザー名または電話番号を使用して友達を検索する";
+//
+///* Class = "UILabel"; text = "Add to friend list to start connection"; ObjectID = "f4f-rF-ZYt"; */
+//"f4f-rF-ZYt.text" = "友達リストに追加";
+//
+///* Class = "UILabel"; text = "Search Friends"; ObjectID = "geZ-Ja-ngt"; */
+//"geZ-Ja-ngt.text" = "友達を探す";
+//
+///* Class = "UIButton"; normalTitle = "ADD FRIEND"; ObjectID = "gHr-GZ-2BW"; */
+//"gHr-GZ-2BW.normalTitle" = "友達を追加";
+//
+///* Class = "UILabel"; text = "9876543210"; ObjectID = "hQT-bo-pXI"; */
+//"hQT-bo-pXI.text" = "9876543210";
+//
+///* Class = "UILabel"; text = "James"; ObjectID = "IWi-FV-j0N"; */
+//"IWi-FV-j0N.text" = "James";
+//
+///* Class = "UILabel"; text = "QR Code"; ObjectID = "lG1-qT-5Vh"; */
+//"lG1-qT-5Vh.text" = "QRコード";
+//
+///* Class = "UILabel"; text = "James Watson"; ObjectID = "Lnd-jZ-OQZ"; */
+//"Lnd-jZ-OQZ.text" = "James Watson";
+//
+///* Class = "UILabel"; text = "Add Friends"; ObjectID = "LnT-M0-fN7"; */
+//"LnT-M0-fN7.text" = "友達を追加する";
+//
+///* Class = "UILabel"; text = "9876543210"; ObjectID = "M8v-tG-paE"; */
+//"M8v-tG-paE.text" = "9876543210";
+//
+///* Class = "UILabel"; text = "Andrea"; ObjectID = "mdo-Ht-Lle"; */
+//"mdo-Ht-Lle.text" = "Andrea";
+//
+///* Class = "UILabel"; text = "You will be added as a friend when your\nfriend scan your QR code"; ObjectID = "MWc-dt-BFa"; */
+//"MWc-dt-BFa.text" = "あなたの友達がスキャンした時\nに友達として追加されます";
+//
+///* Class = "UILabel"; text = "9876543210"; ObjectID = "n9J-0b-k64"; */
+//"n9J-0b-k64.text" = "9876543210";
+//
+///* Class = "UILabel"; text = "Search"; ObjectID = "oeD-fb-ByR"; */
+//"oeD-fb-ByR.text" = "検索する";
+//
+///* Class = "UILabel"; text = "Username"; ObjectID = "qgr-rV-aTi"; */
+//"qgr-rV-aTi.text" = "ユーザー名";
+//
+///* Class = "UILabel"; text = "Phone Number"; ObjectID = "scZ-bV-y1n"; */
+//"scZ-bV-y1n.text" = "電話番号";
+//
+///* Class = "UILabel"; text = "9876543210"; ObjectID = "SWp-7H-XH3"; */
+//"SWp-7H-XH3.text" = "9876543210";
+//
+///* Class = "UILabel"; text = "Scan QR code to quickly add persons\nto your friend list"; ObjectID = "vro-6r-km3"; */
+//"vro-6r-km3.text" = "QRコードをスキャンして友達をリストに追加";
+//
+///* Class = "UILabel"; text = "Create a group for you and your friends."; ObjectID = "vyK-xw-Gns"; */
+//"vyK-xw-Gns.text" = "あなたとあなたの友達のためにグループを作成します。";
+//
+///* Class = "UILabel"; text = "Create Group"; ObjectID = "xDk-sv-p5L"; */
+//"xDk-sv-p5L.text" = "グループを作る";
+//
+///* Class = "UILabel"; text = "James Watson"; ObjectID = "xwG-a9-PC5"; */
+//"xwG-a9-PC5.text" = "James Watson";
+//
+///* Class = "UILabel"; text = "James Watson"; ObjectID = "mBp-nx-9ZD"; */
+//"mBp-nx-9ZD.text" = "ユーザー名または電話番号を使用して友達を検索する";
+//
+//"SzQ-2r-lOs.normalTitle" = "断る";
+//"wA6-CJ-wcO.normalTitle" = "アクセプト";
+//"gTG-sD-69E.text" = "アンドレアを友達リストに追加しますか？";
+//

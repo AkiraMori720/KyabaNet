@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Montserrat-Regular.ttf">
+            <string>Montserrat-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="AddFriendSection" customModule="Life" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="459" height="48"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="RTT-rf-6yb">
+                    <rect key="frame" x="0.0" y="0.0" width="459" height="14"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Official Account Recommendations" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1iJ-MS-xhK">
+                    <rect key="frame" x="12" y="14.5" width="269.5" height="19"/>
+                    <fontDescription key="fontDescription" name="Montserrat-Regular" family="Montserrat" pointSize="15"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="1iJ-MS-xhK" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="3Jy-ho-DOK"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="RTT-rf-6yb" secondAttribute="bottom" id="7HX-gD-Kyl"/>
+                <constraint firstItem="RTT-rf-6yb" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="KrN-xz-Ytt"/>
+                <constraint firstItem="RTT-rf-6yb" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="UAv-W3-6ar"/>
+                <constraint firstItem="1iJ-MS-xhK" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="12" id="edX-3O-Bvh"/>
+                <constraint firstItem="RTT-rf-6yb" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="gt2-z7-oUu"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="headerTitle" destination="1iJ-MS-xhK" id="VaR-vT-E6e"/>
+            </connections>
+            <point key="canvasLocation" x="164.49275362318841" y="132.58928571428572"/>
+        </view>
+    </objects>
+</document>

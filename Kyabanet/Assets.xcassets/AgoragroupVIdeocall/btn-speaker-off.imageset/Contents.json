@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "btn-speaker-off.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

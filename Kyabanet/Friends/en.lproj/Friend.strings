@@ -1,0 +1,120 @@
+
+/* Class = "UILabel"; text = "My QR code"; ObjectID = "1rV-cs-d4e"; */
+"1rV-cs-d4e.text" = "My QR code";
+
+/* Class = "UILabel"; text = "James Watson"; ObjectID = "1un-9S-osQ"; */
+"1un-9S-osQ.text" = "James Watson";
+
+/* Class = "UILabel"; text = "Andrea"; ObjectID = "3BK-ys-edI"; */
+"3BK-ys-edI.text" = "Andrea";
+
+/* Class = "UILabel"; text = "Successfully Pending your friend request. "; ObjectID = "43v-g1-5Uv"; */
+"43v-g1-5Uv.text" = "Successfully Pending your friend request. ";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "4Ch-nU-gTd"; */
+"4Ch-nU-gTd.normalTitle" = "DONE";
+
+/* Class = "UILabel"; text = "James Watson"; ObjectID = "5fl-g9-pl6"; */
+"5fl-g9-pl6.text" = "James Watson";
+
+/* Class = "UILabel"; text = "Andrea"; ObjectID = "6Rr-1o-l6Y"; */
+"6Rr-1o-l6Y.text" = "Andrea";
+
+/* Class = "UILabel"; text = "自分のQRコード"; ObjectID = "Ah6-Wn-Dfi"; */
+"Ah6-Wn-Dfi.text" = "自分のQRコード";
+
+/* Class = "UILabel"; text = "9876543210"; ObjectID = "Axd-cM-fWp"; */
+"Axd-cM-fWp.text" = "9876543210";
+
+/* Class = "UILabel"; text = "ユーザーネームや電話番号で検索して友達を追加できます"; ObjectID = "F0n-Ai-Cpk"; */
+"F0n-Ai-Cpk.text" = "ユーザーネームや電話番号で検索して友達を追加できます";
+
+/* Class = "UILabel"; text = "James"; ObjectID = "IWi-FV-j0N"; */
+"IWi-FV-j0N.text" = "James";
+
+/* Class = "UILabel"; text = "友達追加"; ObjectID = "LnT-M0-fN7"; */
+"LnT-M0-fN7.text" = "友達追加";
+
+/* Class = "UILabel"; text = "James Watson"; ObjectID = "Lnd-jZ-OQZ"; */
+"Lnd-jZ-OQZ.text" = "James Watson";
+
+/* Class = "UILabel"; text = "9876543210"; ObjectID = "M8v-tG-paE"; */
+"M8v-tG-paE.text" = "9876543210";
+
+/* Class = "UILabel"; text = "You will be added as a friend when your\nfriend scan your QR code"; ObjectID = "MWc-dt-BFa"; */
+"MWc-dt-BFa.text" = "You will be added as a friend when your\nfriend scan your QR code";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "RyD-x7-ogF"; */
+"RyD-x7-ogF.normalTitle" = "DONE";
+
+/* Class = "UILabel"; text = "9876543210"; ObjectID = "SWp-7H-XH3"; */
+"SWp-7H-XH3.text" = "9876543210";
+
+/* Class = "UIButton"; normalTitle = "しない"; ObjectID = "SzQ-2r-lOs"; */
+"SzQ-2r-lOs.normalTitle" = "しない";
+
+/* Class = "UILabel"; text = "Showing Results 1"; ObjectID = "bqd-8n-due"; */
+"bqd-8n-due.text" = "Showing Results 1";
+
+/* Class = "UILabel"; text = "Do you want to add Andrea to your friend list ?"; ObjectID = "dSF-cO-Taq"; */
+"dSF-cO-Taq.text" = "Do you want to add Andrea to your friend list ?";
+
+/* Class = "UILabel"; text = "友達申請を受け付けました"; ObjectID = "eYh-Xq-ZWg"; */
+"eYh-Xq-ZWg.text" = "友達申請を受け付けました";
+
+/* Class = "UILabel"; text = "Add to friend list to start connection"; ObjectID = "f4f-rF-ZYt"; */
+"f4f-rF-ZYt.text" = "Add to friend list to start connection";
+
+/* Class = "UIButton"; normalTitle = "ADD FRIEND"; ObjectID = "gHr-GZ-2BW"; */
+"gHr-GZ-2BW.normalTitle" = "ADD FRIEND";
+
+/* Class = "UILabel"; text = "Do you want to add Andrea your friend list ?"; ObjectID = "gTG-sD-69E"; */
+"gTG-sD-69E.text" = "Do you want to add Andrea your friend list ?";
+
+/* Class = "UILabel"; text = "友達を検索する"; ObjectID = "geZ-Ja-ngt"; */
+"geZ-Ja-ngt.text" = "友達を検索する";
+
+/* Class = "UILabel"; text = "9876543210"; ObjectID = "hQT-bo-pXI"; */
+"hQT-bo-pXI.text" = "9876543210";
+
+/* Class = "UILabel"; text = "QRコード"; ObjectID = "lG1-qT-5Vh"; */
+"lG1-qT-5Vh.text" = "QRコード";
+
+/* Class = "UILabel"; text = "Search friends using thier username or phone number "; ObjectID = "mBp-nx-9ZD"; */
+"mBp-nx-9ZD.text" = "Search friends using thier username or phone number ";
+
+/* Class = "UILabel"; text = "Andrea"; ObjectID = "mdo-Ht-Lle"; */
+"mdo-Ht-Lle.text" = "Andrea";
+
+/* Class = "UILabel"; text = "9876543210"; ObjectID = "n9J-0b-k64"; */
+"n9J-0b-k64.text" = "9876543210";
+
+/* Class = "UILabel"; text = "検索"; ObjectID = "oeD-fb-ByR"; */
+"oeD-fb-ByR.text" = "検索";
+
+/* Class = "UILabel"; text = "ユーザーネーム"; ObjectID = "qgr-rV-aTi"; */
+"qgr-rV-aTi.text" = "ユーザーネーム";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "s9u-TT-XIe"; */
+"s9u-TT-XIe.normalTitle" = "Accept";
+
+/* Class = "UILabel"; text = "電話番号"; ObjectID = "scZ-bV-y1n"; */
+"scZ-bV-y1n.text" = "電話番号";
+
+/* Class = "UILabel"; text = "QRコードをスキャンして簡単に友達追加"; ObjectID = "vro-6r-km3"; */
+"vro-6r-km3.text" = "QRコードをスキャンして簡単に友達追加";
+
+/* Class = "UIButton"; normalTitle = "する"; ObjectID = "wA6-CJ-wcO"; */
+"wA6-CJ-wcO.normalTitle" = "する";
+
+/* Class = "UILabel"; text = "James Watson"; ObjectID = "xwG-a9-PC5"; */
+"xwG-a9-PC5.text" = "James Watson";
+
+/* Class = "UILabel"; text = "9876543210"; ObjectID = "yco-XU-Oxv"; */
+"yco-XU-Oxv.text" = "9876543210";
+
+/* Class = "UIButton"; normalTitle = "Decline"; ObjectID = "zdo-Ln-5HW"; */
+"zdo-Ln-5HW.normalTitle" = "Decline";
+
+/* Class = "UILabel"; text = "James Watson"; ObjectID = "znD-BO-TZb"; */
+"znD-BO-TZb.text" = "James Watson";

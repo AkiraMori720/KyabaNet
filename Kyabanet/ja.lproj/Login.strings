@@ -1,0 +1,101 @@
+/* Class = "UIButton"; normalTitle = "START NOW"; ObjectID = "8wq-eJ-6gi"; */
+"8wq-eJ-6gi.normalTitle" = "今始めます";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "9hj-E6-YXw"; */
+"9hj-E6-YXw.placeholder" = "パスワード";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "9im-2e-65O"; */
+"9im-2e-65O.normalTitle" = "サインアップ";
+
+/* Class = "UITextField"; placeholder = "Eg. john@gmail.com"; ObjectID = "93D-XB-FuQ"; */
+"93D-XB-FuQ.placeholder" = "Eg. john@gmail.com";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "aBt-wQ-MV3"; */
+"aBt-wQ-MV3.placeholder" = "パスワード";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "Aer-CS-QRP"; */
+"Aer-CS-QRP.normalTitle" = "次へ";
+
+/* Class = "UILabel"; text = "Login to your account"; ObjectID = "B8C-n3-HNx"; */
+"B8C-n3-HNx.text" = "あなたのアカウントにログイン";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "BHc-cY-WO8"; */
+"BHc-cY-WO8.normalTitle" = "ログインする";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "E1S-Sw-cIH"; */
+"E1S-Sw-cIH.text" = "Eメール";
+
+/* Class = "UILabel"; text = "Registration Successful"; ObjectID = "Eaj-ep-6Qv"; */
+"Eaj-ep-6Qv.text" = "登録しました";
+
+/* Class = "UILabel"; text = "What is the phone\nnumber for this\ndevice ?"; ObjectID = "Eaq-pI-T3O"; */
+"Eaq-pI-T3O.text" = "このデバイスの電話番号は？";
+
+/* Class = "UITextField"; placeholder = "Eg. john@gmail.com"; ObjectID = "Fcb-tW-ahb"; */
+"Fcb-tW-ahb.placeholder" = "Eg. john@gmail.com";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "G9R-qO-cR8"; */
+"G9R-qO-cR8.text" = "パスワード";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "igv-TM-WRc"; */
+"igv-TM-WRc.normalTitle" = "ログイン";
+
+/* Class = "UILabel"; text = "By continuing you will receive and\nSMS for verification. Message and data\nrates may apply."; ObjectID = "IZq-Dh-8GN"; */
+"IZq-Dh-8GN.text" = "続行すると、確認のためにSMSが受信され、メッセージおよびデータレートが適用される場合があります";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password ?"; ObjectID = "mMc-WR-Sj9"; */
+"mMc-WR-Sj9.normalTitle" = "パスワードをお忘れですか？";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "naq-Tp-eL7"; */
+"naq-Tp-eL7.text" = "Eメール";
+
+/* Class = "UILabel"; text = "Kindly login to continue using our services"; ObjectID = "Oed-J0-Wl8"; */
+"Oed-J0-Wl8.text" = "サービスを引き続き使用するにはログインして下さい";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "ogy-KO-8bl"; */
+"ogy-KO-8bl.normalTitle" = "参加する";
+
+/* Class = "UILabel"; text = "Welcome to LIFE APP,\nPlease choose an option to\ncontinue"; ObjectID = "QwE-bI-IPH"; */
+"QwE-bI-IPH.text" = "ようこそLIFEへ！\nオプションを選択してください。";
+
+/* Class = "UILabel"; text = "Please enter the OTP\nreceived in your device"; ObjectID = "sBB-13-uxd"; */
+"sBB-13-uxd.text" = "デバイスで受信した OTP\nを入力してください";
+
+/* Class = "UILabel"; text = "Public Name"; ObjectID = "ssU-OU-JWI"; */
+"ssU-OU-JWI.text" = "名前";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "tzR-Dw-UtY"; */
+"tzR-Dw-UtY.placeholder" = "電話番号";
+
+/* Class = "UITextField"; placeholder = "Public Name"; ObjectID = "WvK-xu-gWB"; */
+"WvK-xu-gWB.placeholder" = "名前";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "WzH-08-Ezs"; */
+"WzH-08-Ezs.placeholder" = "パスワード";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "xIp-cY-lDn"; */
+"xIp-cY-lDn.text" = "パスワードを確認";
+
+/* Class = "UILabel"; text = "Please fill basic details\nto complete registration"; ObjectID = "y2G-iS-JMx"; */
+"y2G-iS-JMx.text" = "登録を完了するには,\n基本情報を入力してください";
+
+/* Class = "UILabel"; text = "Please fill basic details\nto complete registration"; ObjectID = "Y9F-CJ-pla"; */
+"Y9F-CJ-pla.text" = "登録を完了するには、\n基本情報を入力してください";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "zr3-I3-Cba"; */
+"zr3-I3-Cba.text" = "パスワード";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "ogy-KO-8bl"; */
+"ogy-KO-8bl.normalTitle" = "参加する";
+
+/* Class = "UILabel"; text = "Reset Your Password"; ObjectID = "C9r-SH-IVc"; */
+"C9r-SH-IVc.text" = "あなたのパスワードをリセット";
+
+/* Class = "UIButton"; normalTitle = "SEND PASSWORD RESET"; ObjectID = "spi-yy-ddB"; */
+"spi-yy-ddB.normalTitle" = "パスワードリセットを送信";
+
+
+/* Class = "UIButton"; normalTitle = "ACCEPT"; ObjectID = "FmW-QF-FnA"; */
+"FmW-QF-FnA.normalTitle" = "同意する";
+/* Class = "UIButton"; normalTitle = "DON'T ACEEPT"; ObjectID = "tqF-l3-UaB"; */
+"fNR-QM-lAH.normalTitle" = "同意しない";

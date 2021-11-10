@@ -1,0 +1,17 @@
+/* 
+  InfoPlist.strings
+  Life
+
+  Created by mac on 2021/6/20.
+  Copyright © 2021 Zed. All rights reserved.
+*/
+
+{
+    NSCameraUsageDescription = "Camera is required to capture avatar and scan qrcode.";
+    NSPhotoLibraryUsageDescription = "We use photo library to save picture and video messages.";
+    NSPhotoLibraryAddUsageDescription = "We use photo library to save picture and video messages.";
+    NSMicrophoneUsageDescription = "We use your microphone to send audio messages.";
+    NSContactsUsageDescription = "App needs to access contacts to recommend friends to you.";
+    NSLocationAlwaysUsageDescription = "We use your location to send location messages.";
+    NSLocationWhenInUseUsageDescription = "We use your location to send location messages.";
+}

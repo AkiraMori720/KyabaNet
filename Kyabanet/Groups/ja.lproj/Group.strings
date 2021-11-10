@@ -1,0 +1,45 @@
+/* Class = "UILabel"; text = "Add"; ObjectID = "5Lh-Et-za3"; */
+"5Lh-Et-za3.text" = "追加する";
+
+/* Class = "UILabel"; text = "9876543210"; ObjectID = "Adq-v1-7kB"; */
+"Adq-v1-7kB.text" = "9876543210";
+
+/* Class = "UILabel"; text = "Members"; ObjectID = "caY-4S-MfJ"; */
+"caY-4S-MfJ.text" = "メンバー";
+
+/* Class = "UILabel"; text = "James"; ObjectID = "ee3-Lu-usT"; */
+"ee3-Lu-usT.text" = "James";
+
+/* Class = "UILabel"; text = "Existing Friends"; ObjectID = "fD7-Y4-bsw"; */
+"fD7-Y4-bsw.text" = "既存の友達";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jA6-bZ-ifQ"; */
+"jA6-bZ-ifQ.normalTitle" = "ボタン";
+
+/* Class = "UILabel"; text = "James"; ObjectID = "Ljr-dG-sGq"; */
+"Ljr-dG-sGq.text" = "James";
+
+/* Class = "UILabel"; text = "James"; ObjectID = "LzF-Mh-Nds"; */
+"LzF-Mh-Nds.text" = "James";
+
+/* Class = "UILabel"; text = "Create Group Profile"; ObjectID = "mQS-6n-UrE"; */
+"mQS-6n-UrE.text" = "グループ プロファイルの作成";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "N9W-Wb-cty"; */
+"N9W-Wb-cty.normalTitle" = "ボタン";
+
+/* Class = "UILabel"; text = "Group Name"; ObjectID = "vy4-a1-jWK"; */
+"vy4-a1-jWK.text" = "グループ名";
+
+/* Class = "UISearchBar"; placeholder = "Search friends"; ObjectID = "WRn-fE-Bcl"; */
+"WRn-fE-Bcl.placeholder" = "友達を探す";
+
+/* Class = "UILabel"; text = "Add Participants (3)"; ObjectID = "YsY-5x-0JN"; */
+"YsY-5x-0JN.text" = "Add Participants (3)";
+
+/* Class = "UITextField"; placeholder = "Eg. Dev Group"; ObjectID = "YZN-At-B8n"; */
+"YZN-At-B8n.placeholder" = "Eg. Dev Group";
+/* Class = "UILabel"; text = "Group Information"; ObjectID = "WA6-ch-3Ah"; */
+"WA6-ch-3Ah.text" = "グループ情報";
+/* Class = "UILabel"; text = "Invite New Members"; ObjectID = "dMa-LF-BG1"; */
+"dMa-LF-BG1.text" = "新しいメンバーを招待する";

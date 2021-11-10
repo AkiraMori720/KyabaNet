@@ -1,0 +1,47 @@
+/* Class = "UILabel"; text = "New Conversation"; ObjectID = "5bV-62-Qx5"; */
+"5bV-62-Qx5.text" = "新しい会話";
+
+/* Class = "UITabBarItem"; title = "Chats"; ObjectID = "7Qf-wM-Sw9"; */
+"7Qf-wM-Sw9.title" = "チャット";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "7Rx-qt-651"; */
+"7Rx-qt-651.text" = "ホーム";
+
+/* Class = "UILabel"; text = "Chats"; ObjectID = "aZV-eK-MnO"; */
+"aZV-eK-MnO.text" = "チャット";
+
+/* Class = "UILabel"; text = "Amelia"; ObjectID = "c89-3p-oYE"; */
+"c89-3p-oYE.text" = "Amelia";
+
+/* Class = "UILabel"; text = "Create Group"; ObjectID = "MzD-Zd-kCV"; */
+"MzD-Zd-kCV.text" = "グループを作る";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "ni1-x2-Z3R"; */
+"ni1-x2-Z3R.title" = "ホーム";
+
+/* Class = "UILabel"; text = "Create a group for you and your friends."; ObjectID = "NUA-a8-lNd"; */
+"NUA-a8-lNd.text" = "あなたとあなたの友達のためにグループを作成します。";
+
+/* Class = "UITabBarItem"; title = "Chats"; ObjectID = "wcf-N5-rOC"; */
+"wcf-N5-rOC.title" = "チャット";
+
+/* Class = "UIButton"; normalTitle = "HISTORY"; ObjectID = "iIb-wd-ykL"; */
+"iIb-wd-ykL.normalTitle" = "記録";
+
+/* Class = "UIButton"; normalTitle = "ADD"; ObjectID = "l3J-cj-jKs"; */
+"l3J-cj-jKs.normalTitle" = "追加";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "65M-Bx-wLL"; */
+"65M-Bx-wLL.text" = "剰余";
+
+/* Class = "UILabel"; text = "ZED PAY"; ObjectID = "wnf-WC-MMA"; */
+"wnf-WC-MMA.text" = "ZEDペイ";
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "Bul-Uv-j7Z"; */
+"Bul-Uv-j7Z.normalTitle" = "送金";
+
+/* Class = "UIButton"; normalTitle = "ACCEPT"; ObjectID = "isp-iM-d3A"; */
+"isp-iM-d3A.normalTitle" = "同意する";
+/* Class = "UIButton"; normalTitle = "DON'T ACEEPT"; ObjectID = "tqF-l3-UaB"; */
+"tqF-l3-UaB.normalTitle" = "同意しない";
+

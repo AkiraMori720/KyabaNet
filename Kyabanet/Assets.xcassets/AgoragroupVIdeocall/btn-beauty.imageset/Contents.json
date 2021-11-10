@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "btn-filter.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
